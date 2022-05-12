@@ -1,4 +1,4 @@
-# pidp-11-chasingleds
+# PiDP-11 ChasingLEDs
 ChasingLEDs - a configurable blinkenlight idle system for the PiDP-11
 
 Learning a bit of bare-metal assembly language on the PiDP-11, and this is what I ended up with: the well known LED's chasing each other from left ro right and back in the Data Register Display. However, I made it configureable, both with regards to the LED pattern and the speed.
