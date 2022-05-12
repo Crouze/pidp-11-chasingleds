@@ -9,4 +9,4 @@ When Switch 15 is set, the other switches set the delay of the LED's moving (not
 
 Because the pattern will change when adjusting the speed, it is best to first set an appropriate speed and then the pattern. But you can play around with the switches as you like!
 
-The boot.ini file has a similar intro as the default idled has, shoukld you want to use it as option 0000 in the selections file, for instance.
+The boot.ini file has a similar intro as the default idled has, should you want to use it as option 0000 in the selections file, for instance.
